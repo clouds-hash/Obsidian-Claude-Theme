@@ -1,6 +1,6 @@
 # Obsidian-Claude-Theme
 A Claude-style theme for Obsidian
-How to Use?
+# How to Use?
 
 # Download the Claude Folder (is a css file and a json file)
 # Open the Obsidian
